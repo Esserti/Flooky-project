@@ -1,6 +1,14 @@
 # Flooky-project
-HTML and CSS practice
+> Roadmap
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Add Changelog
+- [ ] Add back to top 
+- [ ] Add Additional Templates w/ Examples
+- [ ] Fix Navbar {Mobile version}
+
+## Changelog
+
+* 1.1
+    * Soon
+* 1.0
+    * Initial Release
